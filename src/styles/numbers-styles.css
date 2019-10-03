@@ -1,0 +1,24 @@
+.numbers-oprator-wrapper {
+  border: 1px solid gray;
+  border-radius: 6px;
+  width: 100%;
+  padding: 4px;
+  background-color: #828282;
+  display: flex;
+}
+
+.number {
+  flex: 3;
+}
+
+.oprator {
+  flex: 1;
+}
+
+.number-button {
+  margin: 2px;
+  padding: 6px;
+  border-radius: 6px;
+  min-width: 68px;
+  font-size: 20px;
+}

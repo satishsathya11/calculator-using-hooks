@@ -1,0 +1,8 @@
+.display-wrapper {
+  margin: 10px;
+  border: 2px solid gray;
+  padding: 0 8px;
+  width: 100%;
+  text-align: right;
+  border-radius: 8px;
+}

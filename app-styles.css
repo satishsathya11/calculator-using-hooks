@@ -1,0 +1,8 @@
+h1, p {
+  font-family: Lato;
+}
+
+.title {
+  display: flex;
+  color: #306f6f;
+}
