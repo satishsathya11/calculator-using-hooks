@@ -11,7 +11,8 @@ const initialState = {
 }
 
 const reducer = (state, action) => {
-  console.log("a ction==", action)
+  console.log("a ction==", action);
+  console.log("test vscode on browser");
   switch(action.type) {
     case "oprator":
       return {
